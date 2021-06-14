@@ -1,2 +1,2 @@
 # Calculator
-A simple calculator app
+A simple calculator app.
